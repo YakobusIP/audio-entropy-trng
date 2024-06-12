@@ -1,0 +1,208 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <data/bs-30min.txt>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+  0   1   1   4   1   2   3   2   3   2  0.012650     19/19      Frequency
+  5   1   1   3   2   4   0   0   2   1  0.000134     19/19      BlockFrequency
+  1   4   1   2   1   1   1   0   4   4  0.000648     19/19      CumulativeSums
+  1   1   2   5   0   2   0   2   1   5  0.000026 *   19/19      CumulativeSums
+  2   2   1   4   5   1   0   0   2   2  0.000296     19/19      Runs
+  1   2   5   1   3   2   0   1   2   2  0.002971     19/19      LongestRun
+  1   1   2   1   2   4   2   5   1   0  0.000648     19/19      Rank
+  0   4   2   1   2   3   1   2   2   2  0.025193     19/19      FFT
+  0   2   3   4   3   1   1   1   1   3  0.006196     19/19      NonOverlappingTemplate
+  4   1   2   3   2   1   1   0   1   4  0.002971     19/19      NonOverlappingTemplate
+  4   2   1   1   1   2   2   1   2   3  0.048716     19/19      NonOverlappingTemplate
+  3   2   4   0   0   3   1   2   1   3  0.002971     19/19      NonOverlappingTemplate
+  2   1   4   2   4   1   1   1   0   3  0.002971     19/19      NonOverlappingTemplate
+  4   1   2   2   1   2   1   3   3   0  0.012650     19/19      NonOverlappingTemplate
+  2   0   2   0   1   2   3   2   2   5  0.001399     19/19      NonOverlappingTemplate
+  1   0   2   2   4   0   1   3   5   1  0.000134     19/19      NonOverlappingTemplate
+  2   1   2   3   2   3   1   2   0   3  0.048716     19/19      NonOverlappingTemplate
+  1   1   2   5   2   1   1   2   2   2  0.012650     19/19      NonOverlappingTemplate
+  3   2   2   0   1   3   3   0   0   5  0.000134     19/19      NonOverlappingTemplate
+  1   3   1   2   0   2   1   3   3   3  0.025193     19/19      NonOverlappingTemplate
+  1   4   1   2   0   2   2   5   1   1  0.000648     19/19      NonOverlappingTemplate
+  2   0   5   1   1   0   5   3   0   2  0.000005 *   19/19      NonOverlappingTemplate
+  0   1   2   4   1   0   3   3   3   2  0.002971     19/19      NonOverlappingTemplate
+  3   1   0   2   0   3   2   4   3   1  0.002971     19/19      NonOverlappingTemplate
+  1   0   3   3   2   3   2   2   1   2  0.048716     19/19      NonOverlappingTemplate
+  5   4   1   2   2   0   2   2   0   1  0.000296     19/19      NonOverlappingTemplate
+  4   1   2   1   3   3   2   0   2   1  0.012650     18/19      NonOverlappingTemplate
+  2   1   3   1   3   2   3   0   4   0  0.002971     19/19      NonOverlappingTemplate
+  3   2   3   1   2   1   2   2   2   1  0.162606     19/19      NonOverlappingTemplate
+  3   1   0   1   2   4   2   2   3   1  0.012650     19/19      NonOverlappingTemplate
+  1   2   3   3   1   2   2   2   2   1  0.162606     19/19      NonOverlappingTemplate
+  1   3   2   3   0   0   3   3   1   3  0.006196     19/19      NonOverlappingTemplate
+  0   2   2   2   3   4   1   2   2   1  0.025193     19/19      NonOverlappingTemplate
+  2   1   4   0   1   2   3   2   3   1  0.012650     18/19      NonOverlappingTemplate
+  3   2   2   0   0   3   2   4   2   1  0.006196     19/19      NonOverlappingTemplate
+  1   3   2   3   2   4   2   1   0   1  0.012650     19/19      NonOverlappingTemplate
+  1   3   0   0   1   6   2   2   0   4  0.000002 *   19/19      NonOverlappingTemplate
+  1   1   0   4   0   1   3   5   3   1  0.000060 *   19/19      NonOverlappingTemplate
+  2   5   2   0   3   3   3   1   0   0  0.000134     19/19      NonOverlappingTemplate
+  1   0   1   6   3   0   4   1   2   1  0.000005 *   19/19      NonOverlappingTemplate
+  2   1   0   0   2   1   1   6   5   1  0.000001 *   19/19      NonOverlappingTemplate
+  2   3   2   2   1   5   1   1   2   0  0.002971     19/19      NonOverlappingTemplate
+  0   1   3   4   2   0   0   2   4   3  0.000296     19/19      NonOverlappingTemplate
+  0   0   3   3   2   3   5   2   1   0  0.000134     19/19      NonOverlappingTemplate
+  5   1   0   2   2   0   3   4   1   1  0.000134     17/19      NonOverlappingTemplate
+  2   5   3   2   1   2   0   0   1   3  0.000648     18/19      NonOverlappingTemplate
+  0   0   1   1   3   4   5   3   1   1  0.000060 *   19/19      NonOverlappingTemplate
+  2   3   0   2   3   1   2   2   3   1  0.048716     19/19      NonOverlappingTemplate
+  1   5   1   3   2   1   1   1   1   3  0.002971     19/19      NonOverlappingTemplate
+  1   4   0   3   1   4   1   3   1   1  0.001399     19/19      NonOverlappingTemplate
+  3   0   2   2   3   1   2   2   0   4  0.006196     19/19      NonOverlappingTemplate
+  1   2   2   0   2   1   2   5   0   4  0.000296     19/19      NonOverlappingTemplate
+  1   1   2   3   2   2   1   4   1   2  0.048716     19/19      NonOverlappingTemplate
+  4   1   1   2   1   1   1   3   4   1  0.006196     18/19      NonOverlappingTemplate
+  1   2   1   3   3   2   1   2   1   3  0.090936     19/19      NonOverlappingTemplate
+  2   1   1   2   1   4   0   2   4   2  0.006196     19/19      NonOverlappingTemplate
+  4   2   4   3   0   2   0   2   1   1  0.001399     18/19      NonOverlappingTemplate
+  1   2   0   1   2   1   3   2   2   5  0.002971     19/19      NonOverlappingTemplate
+  1   3   4   3   1   2   2   2   0   1  0.012650     19/19      NonOverlappingTemplate
+  4   2   3   1   2   3   0   1   1   2  0.012650     19/19      NonOverlappingTemplate
+  0   0   3   1   1   4   3   1   2   4  0.000648     19/19      NonOverlappingTemplate
+  0   3   2   0   4   1   3   1   2   3  0.002971     19/19      NonOverlappingTemplate
+  0   0   3   3   4   1   2   2   3   1  0.002971     19/19      NonOverlappingTemplate
+  2   3   2   3   2   1   1   1   1   3  0.090936     19/19      NonOverlappingTemplate
+  3   0   2   5   2   2   3   0   0   2  0.000296     19/19      NonOverlappingTemplate
+  3   2   2   1   3   2   1   3   2   0  0.048716     19/19      NonOverlappingTemplate
+  1   0   2   3   1   1   2   2   3   4  0.012650     19/19      NonOverlappingTemplate
+  1   1   3   4   1   1   0   4   1   3  0.001399     19/19      NonOverlappingTemplate
+  3   4   3   0   2   2   0   2   2   1  0.006196     19/19      NonOverlappingTemplate
+  4   1   0   2   2   2   2   4   2   0  0.002971     18/19      NonOverlappingTemplate
+  2   1   2   4   2   0   2   1   2   3  0.025193     18/19      NonOverlappingTemplate
+  3   2   1   1   2   4   2   2   0   2  0.025193     19/19      NonOverlappingTemplate
+  2   0   2   1   2   1   4   1   3   3  0.012650     18/19      NonOverlappingTemplate
+  2   1   3   4   0   4   1   1   1   2  0.002971     19/19      NonOverlappingTemplate
+  1   2   3   2   2   3   2   1   3   0  0.048716     19/19      NonOverlappingTemplate
+  0   4   1   3   4   1   0   1   3   2  0.000648     19/19      NonOverlappingTemplate
+  2   6   0   0   1   0   3   1   1   5  0.000000 *   19/19      NonOverlappingTemplate
+  2   6   1   2   2   2   1   1   0   2  0.000296     19/19      NonOverlappingTemplate
+  2   2   3   0   2   2   3   3   1   1  0.048716     19/19      NonOverlappingTemplate
+  4   3   1   0   0   2   3   1   2   3  0.002971     17/19      NonOverlappingTemplate
+  2   2   3   2   3   1   2   1   1   2  0.162606     19/19      NonOverlappingTemplate
+  4   1   3   0   2   1   2   4   2   0  0.001399     19/19      NonOverlappingTemplate
+  0   2   3   4   3   0   2   1   1   3  0.002971     19/19      NonOverlappingTemplate
+  1   0   2   2   2   3   2   2   3   2  0.090936     18/19      NonOverlappingTemplate
+  4   3   1   2   3   2   1   1   1   1  0.025193     19/19      NonOverlappingTemplate
+  1   3   3   5   1   0   2   1   2   1  0.001399     19/19      NonOverlappingTemplate
+  2   2   2   1   1   3   2   3   0   3  0.048716     19/19      NonOverlappingTemplate
+  3   2   4   1   0   1   4   2   1   1  0.002971     19/19      NonOverlappingTemplate
+  2   4   3   2   2   2   1   2   0   1  0.025193     19/19      NonOverlappingTemplate
+  1   3   1   1   3   2   3   3   1   1  0.048716     19/19      NonOverlappingTemplate
+  2   1   0   3   0   2   3   4   3   1  0.002971     19/19      NonOverlappingTemplate
+  1   1   2   4   2   1   1   4   2   1  0.012650     19/19      NonOverlappingTemplate
+  1   4   1   1   3   1   1   1   3   3  0.012650     19/19      NonOverlappingTemplate
+  4   3   1   3   3   2   1   0   1   1  0.006196     18/19      NonOverlappingTemplate
+  3   0   5   1   3   2   1   0   1   3  0.000296     19/19      NonOverlappingTemplate
+  1   2   3   1   1   1   5   2   1   2  0.006196     19/19      NonOverlappingTemplate
+  3   1   1   1   4   3   2   1   1   2  0.025193     19/19      NonOverlappingTemplate
+  2   1   2   5   1   2   0   4   1   1  0.000648     19/19      NonOverlappingTemplate
+  4   3   2   2   0   2   2   2   0   2  0.012650     19/19      NonOverlappingTemplate
+  4   1   3   3   2   0   0   0   3   3  0.000648     19/19      NonOverlappingTemplate
+  3   0   3   3   3   1   1   3   2   0  0.006196     19/19      NonOverlappingTemplate
+  2   2   1   0   3   3   1   3   3   1  0.025193     19/19      NonOverlappingTemplate
+  1   4   1   3   3   3   0   2   1   1  0.006196     19/19      NonOverlappingTemplate
+  4   1   3   1   1   0   4   1   1   3  0.001399     19/19      NonOverlappingTemplate
+  3   2   3   2   3   2   2   0   0   2  0.025193     19/19      NonOverlappingTemplate
+  1   1   2   0   0   3   2   3   3   4  0.002971     19/19      NonOverlappingTemplate
+  3   2   1   2   2   1   2   3   2   1  0.162606     19/19      NonOverlappingTemplate
+  0   2   1   3   8   1   0   1   1   2  0.000000 *   19/19      NonOverlappingTemplate
+  2   1   3   1   2   1   1   4   2   2  0.048716     19/19      NonOverlappingTemplate
+  2   3   1   0   2   1   4   3   2   1  0.012650     19/19      NonOverlappingTemplate
+  3   1   1   4   1   1   2   3   2   1  0.025193     19/19      NonOverlappingTemplate
+  4   2   1   3   1   2   3   1   0   2  0.012650     19/19      NonOverlappingTemplate
+  4   1   1   4   1   1   1   1   1   4  0.001399     19/19      NonOverlappingTemplate
+  3   1   5   0   1   2   2   1   3   1  0.001399     19/19      NonOverlappingTemplate
+  2   4   0   6   0   0   3   0   3   1  0.000000 *   18/19      NonOverlappingTemplate
+  0   1   4   0   2   3   2   3   3   1  0.002971     19/19      NonOverlappingTemplate
+  3   4   6   0   0   0   1   1   3   1  0.000001 *   19/19      NonOverlappingTemplate
+  4   2   1   2   0   1   4   1   3   1  0.002971     18/19      NonOverlappingTemplate
+  3   5   2   2   1   2   2   0   1   1  0.002971     19/19      NonOverlappingTemplate
+  1   2   0   2   4   5   0   1   3   1  0.000134     19/19      NonOverlappingTemplate
+  1   0   3   1   1   2   1   6   4   0  0.000005 *   19/19      NonOverlappingTemplate
+  4   4   4   0   0   2   0   3   1   1  0.000060 *   18/19      NonOverlappingTemplate
+  3   2   1   1   2   2   0   4   2   2  0.025193     19/19      NonOverlappingTemplate
+  2   3   3   4   2   1   1   1   1   1  0.025193     18/19      NonOverlappingTemplate
+  4   3   0   3   3   1   0   1   2   2  0.002971     19/19      NonOverlappingTemplate
+  3   2   3   4   1   0   2   2   0   2  0.006196     19/19      NonOverlappingTemplate
+  1   4   2   0   2   0   2   3   3   2  0.006196     19/19      NonOverlappingTemplate
+  2   0   2   2   1   4   1   1   3   3  0.012650     19/19      NonOverlappingTemplate
+  3   5   2   2   0   1   1   4   1   0  0.000134     19/19      NonOverlappingTemplate
+  3   1   2   2   2   3   3   1   2   0  0.048716     19/19      NonOverlappingTemplate
+  3   2   0   3   2   1   0   5   2   1  0.000648     19/19      NonOverlappingTemplate
+  0   3   5   1   4   1   1   1   2   1  0.000296     19/19      NonOverlappingTemplate
+  2   1   3   1   4   2   3   0   1   2  0.012650     19/19      NonOverlappingTemplate
+  3   1   4   1   1   2   0   4   2   1  0.002971     19/19      NonOverlappingTemplate
+  1   1   3   2   1   1   3   2   4   1  0.025193     19/19      NonOverlappingTemplate
+  4   1   1   3   1   2   3   2   1   1  0.025193     19/19      NonOverlappingTemplate
+  2   2   1   2   1   3   2   3   1   2  0.162606     18/19      NonOverlappingTemplate
+  2   1   2   3   2   0   4   3   2   0  0.006196     19/19      NonOverlappingTemplate
+  3   1   1   1   4   3   0   2   1   3  0.006196     19/19      NonOverlappingTemplate
+  3   0   2   2   2   3   1   5   0   1  0.000648     18/19      NonOverlappingTemplate
+  0   3   1   2   2   0   3   1   4   3  0.002971     19/19      NonOverlappingTemplate
+  2   1   1   4   1   3   2   1   2   2  0.048716     19/19      NonOverlappingTemplate
+  1   0   0   6   3   0   2   1   5   1  0.000000 *   18/19      NonOverlappingTemplate
+  1   4   2   2   4   1   1   1   2   1  0.012650     19/19      NonOverlappingTemplate
+  4   2   0   0   5   4   2   2   0   0  0.000005 *   18/19      NonOverlappingTemplate
+  4   2   3   0   1   0   3   3   2   1  0.002971     19/19      NonOverlappingTemplate
+  2   3   4   1   3   0   3   0   2   1  0.002971     19/19      NonOverlappingTemplate
+  3   0   2   0   3   3   2   2   1   3  0.012650     18/19      NonOverlappingTemplate
+  6   4   2   2   0   1   1   0   2   1  0.000012 *   18/19      NonOverlappingTemplate
+  1   0   2   3   6   0   2   1   1   3  0.000026 *   18/19      NonOverlappingTemplate
+  2   3   3   1   1   3   2   1   1   2  0.090936     19/19      NonOverlappingTemplate
+  4   0   1   1   0   3   2   4   2   2  0.001399     19/19      NonOverlappingTemplate
+  2   3   3   1   1   2   0   1   2   4  0.012650     19/19      NonOverlappingTemplate
+  1   2   3   2   2   2   1   2   1   3  0.162606     19/19      NonOverlappingTemplate
+  0   3   2   2   2   2   0   5   2   1  0.001399     19/19      NonOverlappingTemplate
+  4   1   3   0   2   1   2   4   2   0  0.001399     19/19      NonOverlappingTemplate
+  2   2   6   0   2   2   0   3   0   2  0.000026 *   19/19      OverlappingTemplate
+  2   1   1   0   1   2   3   4   4   1  0.002971     19/19      Universal
+  1   3   2   3   1   1   0   3   1   4  0.006196     19/19      ApproximateEntropy
+  0   0   1   2   1   0   4   0   1   2  0.090936     11/11      RandomExcursions
+  2   1   1   1   0   1   1   1   1   2  0.964295     11/11      RandomExcursions
+  1   0   1   1   1   1   2   1   3   0  0.637119     11/11      RandomExcursions
+  0   1   3   1   0   3   1   0   1   1  0.275709     11/11      RandomExcursions
+  0   1   1   2   1   1   2   1   0   2  0.834308     11/11      RandomExcursions
+  2   2   0   1   2   2   1   0   0   1  0.637119     11/11      RandomExcursions
+  0   3   0   0   1   1   0   3   0   3  0.048716     11/11      RandomExcursions
+  1   1   0   3   1   1   0   0   2   2  0.437274     11/11      RandomExcursions
+  1   0   0   4   1   1   0   1   1   2  0.162606     11/11      RandomExcursionsVariant
+  0   2   1   2   1   1   1   1   1   1  0.964295     11/11      RandomExcursionsVariant
+  1   3   1   1   1   0   3   0   1   0  0.275709     11/11      RandomExcursionsVariant
+  1   3   1   1   0   2   3   0   0   0  0.162606     11/11      RandomExcursionsVariant
+  2   3   1   1   0   1   1   1   1   0  0.637119     11/11      RandomExcursionsVariant
+  3   0   4   0   1   0   0   1   1   1  0.048716     11/11      RandomExcursionsVariant
+  3   1   0   0   2   1   1   0   1   2  0.437274     11/11      RandomExcursionsVariant
+  2   0   2   0   1   0   2   0   0   4  0.048716     11/11      RandomExcursionsVariant
+  3   1   0   1   1   0   0   2   1   2  0.437274     11/11      RandomExcursionsVariant
+  1   0   1   1   2   2   1   0   1   2  0.834308     11/11      RandomExcursionsVariant
+  1   1   0   0   3   2   2   0   1   1  0.437274     11/11      RandomExcursionsVariant
+  1   0   2   1   0   1   1   2   1   2  0.834308     11/11      RandomExcursionsVariant
+  1   0   0   1   0   1   1   3   3   1  0.275709     11/11      RandomExcursionsVariant
+  1   1   0   0   0   1   2   1   2   3  0.437274     11/11      RandomExcursionsVariant
+  1   1   0   0   1   2   2   1   2   1  0.834308     11/11      RandomExcursionsVariant
+  1   1   0   0   2   0   6   0   0   1  0.000296     11/11      RandomExcursionsVariant
+  1   0   1   2   0   1   2   1   3   0  0.437274     11/11      RandomExcursionsVariant
+  0   1   0   3   1   1   0   2   2   1  0.437274     11/11      RandomExcursionsVariant
+  1   3   1   5   3   1   0   1   4   0  0.000060 *   19/19      Serial
+  0   2   4   2   1   2   3   2   1   2  0.025193     19/19      Serial
+  0   0   1   3   2   2   3   5   1   2  0.000648     19/19      LinearComplexity
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 17 for a
+sample size = 19 binary sequences.
+
+The minimum pass rate for the random excursion (variant) test
+is approximately = 9 for a sample size = 11 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

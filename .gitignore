@@ -1,0 +1,9 @@
+Lib
+Scripts
+Include
+pyvenv.cfg
+sts-2.1.2
+share
+__pycache__
+binary_sequences
+audios
